@@ -1,0 +1,20 @@
+{
+  "name": "calculatro_express_nodejs",
+  "version": "1.0.0",
+  "description": "calculator using express node.js",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator",
+    "node.js",
+    "express"
+  ],
+  "author": "Alexei",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
